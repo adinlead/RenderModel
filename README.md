@@ -1,2 +1,2 @@
 # RenderModel
-一个Java响应格式库
+一个轻量级的Java响应格式库，用于封装HTTP响应数据。可以快速地整合到SpringBoot、PlayFramework等WEB框架中
